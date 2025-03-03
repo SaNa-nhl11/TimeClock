@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TimeClock/static/js/main.afac297a.js",
+    "index.html": "/TimeClock/index.html",
+    "main.afac297a.js.map": "/TimeClock/static/js/main.afac297a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.afac297a.js"
+  ]
+}
