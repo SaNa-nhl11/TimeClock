@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 3rem;
+    color: white;
+    background-color: cadetblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button {
+    font-size: 3rem;
+    background-color:gold;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    border-width: 5px;
+}
+
